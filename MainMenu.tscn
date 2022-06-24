@@ -136,17 +136,17 @@ anchor_left = 0.164
 anchor_top = 0.807
 anchor_right = 0.164
 anchor_bottom = 0.807
-margin_left = -252.88
-margin_top = -172.56
+margin_left = -250.88
+margin_top = -167.56
 margin_right = 261.12
 margin_bottom = 152.44
 custom_styles/panel = SubResource( 2 )
 
 [node name="Label" type="Label" parent="ColorRect/Panel"]
-margin_left = 10.0
-margin_top = 13.0
-margin_right = 498.0
-margin_bottom = 309.0
+margin_left = 8.0
+margin_top = 8.0
+margin_right = 506.0
+margin_bottom = 312.0
 custom_fonts/font = SubResource( 19 )
 text = "Thank you for Downloading 
 this game!
@@ -256,7 +256,7 @@ position = Vector2( 160, 360 )
 position = Vector2( 125, 178 )
 scale = Vector2( 8, 8 )
 frames = SubResource( 10 )
-frame = 2
+frame = 3
 playing = true
 flip_h = true
 

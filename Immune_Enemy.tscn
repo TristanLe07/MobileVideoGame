@@ -38,7 +38,6 @@ position = Vector2( -22.4789, -2.40629 )
 scale = Vector2( 2.2854, 2.33575 )
 frames = SubResource( 1 )
 animation = "walking"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
@@ -56,7 +55,7 @@ collision_layer = 16
 collision_mask = 33
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="side_checker"]
-position = Vector2( -22.4789, -9.41354 )
+position = Vector2( -22.4789, -9.41352 )
 shape = SubResource( 4 )
 
 [node name="Timer" type="Timer" parent="."]
